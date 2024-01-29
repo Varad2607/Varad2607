@@ -11,7 +11,7 @@ A passionate Robotics Engineer
 
 <p align="left">
 <a href="https://www.linkedin.com/in/varaddhat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varaddhat" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/varad dhat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="varad dhat" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@varaddhat8367/videos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="varad dhat" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
