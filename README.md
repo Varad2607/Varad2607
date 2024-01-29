@@ -3,7 +3,7 @@ A passionate Robotics Engineer
 
 🤖 I'm currently studying Robotics at University of Washington, Seattle. I’m also research assistnat @hcrlab. Developing software for robots which can be deployed at home for the people who have mobility issues. 
 
-💻 I have a passion for solving problems in the filed of robotics especially in Perception/Intergration of computer-vision and Deep-Learning and Human-Robot-Interaction.
+💻 I have a passion for solving problems in the field of robotics especially in Perception/Intergration of computer-vision and Deep-Learning and Human-Robot-Interaction.
 
 📫 How to reach me **vdhat@uw.edu**
 
