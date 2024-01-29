@@ -5,10 +5,10 @@ A passionate Robotics Engineer
 
 💻 I have a passion for solving problems in the filed of robotics especially in Perception/Intergration of computer-vision and Deep-Learning and Human-Robot-Interaction.
 
-- 📫 How to reach me **vdhat@uw.edu**
+📫 How to reach me **vdhat@uw.edu**
 
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://www.linkedin.com/in/varaddhat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varaddhat" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/varad dhat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="varad dhat" height="30" width="40" /></a>
