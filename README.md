@@ -10,9 +10,15 @@ A passionate Robotics Engineer
 
 
 <p align="left">
-<a href="https://www.linkedin.com/in/varaddhat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varaddhat" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@varaddhat8367/videos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="varad dhat" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/varaddhat/" target="blank" style="text-decoration: none;">
+        <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="varaddhat" height="30" width="30" />
+    </a>
+    <a href="https://www.youtube.com/@varaddhat8367/videos" target="blank" style="text-decoration: none;">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="varad dhat" height="30" width="40" />
+    </a>
 </p>
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
