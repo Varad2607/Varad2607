@@ -5,7 +5,7 @@ A passionate Robotics Engineer
 
 💻 I have a passion for solving problems in the field of robotics especially in Perception/Intergration of computer-vision and Deep-Learning and Human-Robot-Interaction.
 
-📫 How to reach me **vdhat@uw.edu**
+📫 How to reach me **varad@cs.washington.edu**
 
 
 
